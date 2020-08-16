@@ -47,9 +47,9 @@ swaps the left and right channels and creates a new audiofile.
 
 ## Images
 
-![Image of Screenshot 1](/audiotools1.png)
-![Image of Screenshot 2](/audiotools2.png)
-![Image of Screenshot 3](/audiotools3.png)
+![Image of Screenshot 1](/images/audiotools1.png)
+![Image of Screenshot 2](/images/audiotools2.png)
+![Image of Screenshot 3](/images/audiotools3.png)
 
 
 The icon was made with the help of the App Icons8 Lite [click here](https://icons8.com/)

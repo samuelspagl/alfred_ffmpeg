@@ -1,5 +1,6 @@
 # alfred_ffmpeg
 A small Alfred Workflow for the ffmpeg library.
+You will need the ffmpeg library downloaded and installed. [ffmpeg Git-Repo](https://github.com/FFmpeg/FFmpeg)
 
 ## Audiotools
 
@@ -49,3 +50,6 @@ swaps the left and right channels and creates a new audiofile.
 ![Image of Screenshot 1](/audiotools1.png)
 ![Image of Screenshot 2](/audiotools2.png)
 ![Image of Screenshot 3](/audiotools3.png)
+
+
+The icon was made with the help of the App Icons8 Lite [click here](https://icons8.com/)

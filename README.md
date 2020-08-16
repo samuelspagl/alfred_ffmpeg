@@ -2,6 +2,8 @@
 A small Alfred Workflow for the ffmpeg library.
 You will need the ffmpeg library downloaded and installed. [ffmpeg Git-Repo](https://github.com/FFmpeg/FFmpeg)
 
+It's my first try here on Git :D so just hmu if you have suggestions, or if i did something wrong :D Greetings ;) Sam
+
 ## Audiotools
 
 You can use some Audiotools to convert, and do other stuff with the audio!

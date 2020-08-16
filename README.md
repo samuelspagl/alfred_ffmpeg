@@ -46,5 +46,4 @@ swaps the left and right channels and creates a new audiofile.
 
 ## Images
 
-![Image of Screenshot 1]
-(audiotools1.png)
+![Image of Screenshot 1](/audiotools1.png)
